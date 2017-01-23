@@ -1,4 +1,3 @@
-hello world
 from github 1
 via sourcetree1
 from gitbash
